@@ -1,10 +1,15 @@
-# Actividad-2-B-squedaYSistemasBasadosEnReglas
+# Actividad 2 - Búsqueda y Sistemas Basados en Reglas
 
-Estudiantes:
-Marlo José Mora Montiel
-Yesica Fernanda Saraza Londoño
-Corporación Universitaria Iberoamericana
-Materia: Inteligencia Artificial
-Docente: Joaquín Sánchez
-Carrera: Ingeniería en Ciencia de Datos.
-Noviembre 2026
+Estudiantes: 
+*Marlon Jose Mora Montiel
+*Yesica Fernanda Saraza Londoño
+Institucion:
+Corporación Universitaria Iberoamerica
+Carrera:
+Ingeniería en Ciencias de Datos 
+Materia: 
+Inteligencia Artificial 
+Docente: 
+Joaquín Sánchez 
+Noviembre 2026 
+
