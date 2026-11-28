@@ -1,6 +1,11 @@
 import heapq
 import math
 
+"""Descripción: Este programa permite determinar la ruta más rápida en TransMilenio,
+para viajar desde la estación San Mateo en Soacha, hasta la estación Calle 85, en la cuidad de Bogota, Colombia.
+Autores: Yesica Saraza Londoño, Marlo Mora Montiel.
+Fecha: Noviembre 2026"""
+
 # 1. BASE DE CONOCIMIENTO (HECHOS DEL SISTEMA)
 # Coordenadas aproximadas para que nuestro programa sepa qué tan lejos está cada estación
 coordenadas = {
